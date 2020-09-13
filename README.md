@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hiya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Lakshmeesha aka <img src="https://raw.githubusercontent.com/ltsharma/ltsharma/master/9198588.png" width="40px"/>ltsharma </h1>
+   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hiya I'm Lakshmeesha aka <img src="https://raw.githubusercontent.com/ltsharma/ltsharma/master/9198588.png" width="40px"/>ltsharma </h1>
 </div>
 
 
