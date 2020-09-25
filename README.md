@@ -1,7 +1,7 @@
 <div align="center">
-   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Lakshmeesha <img src="https://raw.githubusercontent.com/ltsharma/ltsharma/master/9198588.png" width="40px"/></h1>
+   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Lakshmeesha aka ltsharma</h1>
 </div>
-
+<img src="https://raw.githubusercontent.com/ltsharma/ltsharma/master/9198588.png" width="40px"/>
 
 ![LTSHARMA's github stats](https://github-readme-stats.vercel.app/api?username=ltsharma&hide=contribs,prs&theme=tokyonight)
 
