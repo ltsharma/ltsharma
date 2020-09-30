@@ -4,6 +4,7 @@
 
 ![LTSHARMA's github stats](https://github-readme-stats.vercel.app/api?username=ltsharma&hide=contribs,prs&theme=tokyonight)
 
+## These something i know
 ### :sparkles:Languages and Tools known
 - Javascript
 - Typescript
@@ -21,4 +22,5 @@
 - Express JS
 - Firebase (Auth, Functions, Firestore, Databse, Analytics, Crashlytics)
 
-
+## These something i soon will know
+- Dart / Flutter
