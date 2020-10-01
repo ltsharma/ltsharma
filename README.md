@@ -9,10 +9,9 @@
 - Javascript
 - Typescript
 - HTML
-- CSS
+- CSS / LESS / SCSS
 - SQL
 - PHP
-- CSS / LESS / SCSS
 
 ### :sparkles:Frameworks
 - React Native
