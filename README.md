@@ -1,10 +1,9 @@
 <div align="center">
-   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Lakshmeesha aka ltsharma</h1>
+   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Lakshmeesha</h1>
 </div>
 
-![LTSHARMA's github stats](https://github-readme-stats.vercel.app/api?username=ltsharma&hide=contribs,prs&theme=tokyonight)
-
-## These something i know
+### Codename: LTSHARMA 
+## These something i know well
 ### :sparkles:Languages and Tools known
 - Javascript
 - Typescript
@@ -23,3 +22,6 @@
 
 ## These something i soon will know
 - Dart / Flutter
+
+
+![LTSHARMA's github stats](https://github-readme-stats.vercel.app/api?username=ltsharma&hide=contribs,prs&theme=tokyonight)
