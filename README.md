@@ -3,6 +3,9 @@
 </div>
 
 ### Codename: LTSHARMA 
+## :memo: My Writings
+- [Easy React Native Form management with react-formr](https://dev.to/ltsharma/easy-react-native-form-management-with-react-formr-47n5)
+- [React Native Performance Optimisation With Hooks](https://dev.to/ltsharma/performance-optimisation-react-native-with-hooks-a77)
 ## These something i know well
 ### :sparkles:Languages and Tools known
 - Javascript
@@ -12,7 +15,7 @@
 - SQL
 - PHP
 
-### :sparkles:Frameworks
+### :sparkles: Frameworks
 - React Native
 - React
 - Redux
